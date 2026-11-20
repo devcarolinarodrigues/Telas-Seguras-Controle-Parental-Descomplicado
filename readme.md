@@ -44,7 +44,7 @@ Como o projeto não utiliza banco de dados ou processos de build (como Node.js/N
 
 1. Faça o clone deste repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/telas-seguras.git
+   git clone [https://github.com/devcarolinarodrigues/Telas-Seguras-Controle-Parental-Descomplicado]
    ```
 2. Crie a pasta `documentos` e adicione seus PDFs nela (respeitando os nomes exatos listados no `js.js` e no `index.html`).
 3. Dê um duplo clique no arquivo `index.html` para abri-lo direto no seu navegador.
